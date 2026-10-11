@@ -1,0 +1,45 @@
+version: 2
+
+models:
+  - name: stg_transactions
+    description: "Transaksi e-commerce yang sudah dibersihkan dan disiapkan untuk analisis."
+    columns:
+      - name: transaction_id
+        description: "ID unik transaksi."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: transaction_datetime
+        description: "Tanggal dan waktu transaksi."
+        data_tests:
+          - not_null
+
+      - name: product_id
+        description: "ID produk yang terdaftar dalam master produk."
+        data_tests:
+          - not_null
+
+      - name: quantity
+        description: "Jumlah produk dalam transaksi."
+        data_tests:
+          - not_null
+
+      - name: unit_price
+        description: "Harga per unit pada transaksi."
+        data_tests:
+          - not_null
+
+  - name: stg_products
+    description: "Master produk yang sudah dirapikan untuk analisis."
+    columns:
+      - name: product_id
+        description: "ID unik produk."
+        data_tests:
+          - not_null
+          - unique
+
+      - name: product_name
+        description: "Nama produk."
+        data_tests:
+          - not_null

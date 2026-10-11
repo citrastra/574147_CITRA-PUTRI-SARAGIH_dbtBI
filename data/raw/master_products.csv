@@ -1,0 +1,91 @@
+product_id,product_name,brand,category,subcategory,unit_price,stock,supplier,is_active
+PROD001,GlowCare Cleanser 1,GlowCare,Perawatan Wajah,Cleanser,35000,110,PT Beauty Indonesia,1
+PROD002,BeautyLab Toner 2,BeautyLab,Perawatan Wajah,Toner,45000,213,PT Kosmetik Nusantara,1
+PROD003,PureSkin Serum 3,PureSkin,Perawatan Wajah,Serum,55000,307,CV Cantik Sejahtera,1
+PROD004,Lumiere Moisturizer 4,Lumiere,Perawatan Wajah,Moisturizer,65000,312,PT Glow Supplier,1
+PROD005,NatureGlow Face Mask 5,NatureGlow,Perawatan Wajah,Face Mask,75000,381,PT Beauty Indonesia,1
+PROD006,Skinova Cleanser 6,Skinova,Perawatan Wajah,Cleanser,85000,490,PT Kosmetik Nusantara,1
+PROD007,GlowCare Toner 7,GlowCare,Perawatan Wajah,Toner,95000,102,CV Cantik Sejahtera,1
+PROD008,BeautyLab Serum 8,BeautyLab,Perawatan Wajah,Serum,110000,164,PT Glow Supplier,1
+PROD009,PureSkin Moisturizer 9,PureSkin,Perawatan Wajah,Moisturizer,125000,357,PT Beauty Indonesia,1
+PROD010,Lumiere Face Mask 10,Lumiere,Perawatan Wajah,Face Mask,150000,368,PT Kosmetik Nusantara,1
+PROD011,NatureGlow Cleanser 11,NatureGlow,Perawatan Wajah,Cleanser,175000,334,CV Cantik Sejahtera,1
+PROD012,Skinova Toner 12,Skinova,Perawatan Wajah,Toner,200000,265,PT Glow Supplier,1
+PROD013,GlowCare Serum 13,GlowCare,Perawatan Wajah,Serum,225000,451,PT Beauty Indonesia,1
+PROD014,BeautyLab Moisturizer 14,BeautyLab,Perawatan Wajah,Moisturizer,250000,343,PT Kosmetik Nusantara,1
+PROD015,PureSkin Face Mask 15,PureSkin,Perawatan Wajah,Face Mask,300000,330,CV Cantik Sejahtera,1
+PROD016,Lumiere Shampoo 1,Lumiere,Perawatan Rambut,Shampoo,35000,481,PT Glow Supplier,1
+PROD017,NatureGlow Conditioner 2,NatureGlow,Perawatan Rambut,Conditioner,45000,424,PT Beauty Indonesia,1
+PROD018,Skinova Hair Serum 3,Skinova,Perawatan Rambut,Hair Serum,55000,447,PT Kosmetik Nusantara,1
+PROD019,GlowCare Hair Mask 4,GlowCare,Perawatan Rambut,Hair Mask,65000,443,CV Cantik Sejahtera,1
+PROD020,BeautyLab Hair Oil 5,BeautyLab,Perawatan Rambut,Hair Oil,75000,301,PT Glow Supplier,1
+PROD021,PureSkin Shampoo 6,PureSkin,Perawatan Rambut,Shampoo,85000,434,PT Beauty Indonesia,1
+PROD022,Lumiere Conditioner 7,Lumiere,Perawatan Rambut,Conditioner,95000,445,PT Kosmetik Nusantara,1
+PROD023,NatureGlow Hair Serum 8,NatureGlow,Perawatan Rambut,Hair Serum,110000,350,CV Cantik Sejahtera,1
+PROD024,Skinova Hair Mask 9,Skinova,Perawatan Rambut,Hair Mask,125000,275,PT Glow Supplier,1
+PROD025,GlowCare Hair Oil 10,GlowCare,Perawatan Rambut,Hair Oil,150000,172,PT Beauty Indonesia,1
+PROD026,BeautyLab Shampoo 11,BeautyLab,Perawatan Rambut,Shampoo,175000,51,PT Kosmetik Nusantara,1
+PROD027,PureSkin Conditioner 12,PureSkin,Perawatan Rambut,Conditioner,200000,364,CV Cantik Sejahtera,1
+PROD028,Lumiere Hair Serum 13,Lumiere,Perawatan Rambut,Hair Serum,225000,91,PT Glow Supplier,1
+PROD029,NatureGlow Hair Mask 14,NatureGlow,Perawatan Rambut,Hair Mask,250000,106,PT Beauty Indonesia,1
+PROD030,Skinova Hair Oil 15,Skinova,Perawatan Rambut,Hair Oil,300000,197,PT Kosmetik Nusantara,1
+PROD031,GlowCare Body Wash 1,GlowCare,Perawatan Tubuh,Body Wash,35000,468,CV Cantik Sejahtera,1
+PROD032,BeautyLab Body Lotion 2,BeautyLab,Perawatan Tubuh,Body Lotion,45000,100,PT Glow Supplier,1
+PROD033,PureSkin Body Scrub 3,PureSkin,Perawatan Tubuh,Body Scrub,55000,280,PT Beauty Indonesia,1
+PROD034,Lumiere Hand Cream 4,Lumiere,Perawatan Tubuh,Hand Cream,65000,55,PT Kosmetik Nusantara,1
+PROD035,NatureGlow Body Serum 5,NatureGlow,Perawatan Tubuh,Body Serum,75000,467,CV Cantik Sejahtera,1
+PROD036,Skinova Body Wash 6,Skinova,Perawatan Tubuh,Body Wash,85000,400,PT Glow Supplier,1
+PROD037,GlowCare Body Lotion 7,GlowCare,Perawatan Tubuh,Body Lotion,95000,301,PT Beauty Indonesia,1
+PROD038,BeautyLab Body Scrub 8,BeautyLab,Perawatan Tubuh,Body Scrub,110000,397,PT Kosmetik Nusantara,1
+PROD039,PureSkin Hand Cream 9,PureSkin,Perawatan Tubuh,Hand Cream,125000,210,CV Cantik Sejahtera,1
+PROD040,Lumiere Body Serum 10,Lumiere,Perawatan Tubuh,Body Serum,150000,157,PT Glow Supplier,1
+PROD041,NatureGlow Body Wash 11,NatureGlow,Perawatan Tubuh,Body Wash,175000,253,PT Beauty Indonesia,1
+PROD042,Skinova Body Lotion 12,Skinova,Perawatan Tubuh,Body Lotion,200000,178,PT Kosmetik Nusantara,1
+PROD043,GlowCare Body Scrub 13,GlowCare,Perawatan Tubuh,Body Scrub,225000,228,CV Cantik Sejahtera,1
+PROD044,BeautyLab Hand Cream 14,BeautyLab,Perawatan Tubuh,Hand Cream,250000,232,PT Glow Supplier,1
+PROD045,PureSkin Body Serum 15,PureSkin,Perawatan Tubuh,Body Serum,300000,462,PT Beauty Indonesia,1
+PROD046,Lumiere Lip Balm 1,Lumiere,Perawatan Bibir,Lip Balm,35000,242,PT Kosmetik Nusantara,1
+PROD047,NatureGlow Lip Scrub 2,NatureGlow,Perawatan Bibir,Lip Scrub,45000,431,CV Cantik Sejahtera,1
+PROD048,Skinova Lip Mask 3,Skinova,Perawatan Bibir,Lip Mask,55000,312,PT Glow Supplier,1
+PROD049,GlowCare Lip Serum 4,GlowCare,Perawatan Bibir,Lip Serum,65000,376,PT Beauty Indonesia,1
+PROD050,BeautyLab Lip Tint 5,BeautyLab,Perawatan Bibir,Lip Tint,75000,89,PT Kosmetik Nusantara,1
+PROD051,PureSkin Lip Balm 6,PureSkin,Perawatan Bibir,Lip Balm,85000,420,CV Cantik Sejahtera,1
+PROD052,Lumiere Lip Scrub 7,Lumiere,Perawatan Bibir,Lip Scrub,95000,224,PT Glow Supplier,1
+PROD053,NatureGlow Lip Mask 8,NatureGlow,Perawatan Bibir,Lip Mask,110000,95,PT Beauty Indonesia,1
+PROD054,Skinova Lip Serum 9,Skinova,Perawatan Bibir,Lip Serum,125000,335,PT Kosmetik Nusantara,1
+PROD055,GlowCare Lip Tint 10,GlowCare,Perawatan Bibir,Lip Tint,150000,325,CV Cantik Sejahtera,1
+PROD056,BeautyLab Lip Balm 11,BeautyLab,Perawatan Bibir,Lip Balm,175000,199,PT Glow Supplier,1
+PROD057,PureSkin Lip Scrub 12,PureSkin,Perawatan Bibir,Lip Scrub,200000,197,PT Beauty Indonesia,1
+PROD058,Lumiere Lip Mask 13,Lumiere,Perawatan Bibir,Lip Mask,225000,284,PT Kosmetik Nusantara,1
+PROD059,NatureGlow Lip Serum 14,NatureGlow,Perawatan Bibir,Lip Serum,250000,122,CV Cantik Sejahtera,1
+PROD060,Skinova Lip Tint 15,Skinova,Perawatan Bibir,Lip Tint,300000,498,PT Glow Supplier,1
+PROD061,GlowCare Sunscreen 1,GlowCare,Sun Care,Sunscreen,35000,380,PT Beauty Indonesia,1
+PROD062,BeautyLab Sun Stick 2,BeautyLab,Sun Care,Sun Stick,45000,410,PT Kosmetik Nusantara,1
+PROD063,PureSkin After Sun 3,PureSkin,Sun Care,After Sun,55000,416,CV Cantik Sejahtera,1
+PROD064,Lumiere Sun Spray 4,Lumiere,Sun Care,Sun Spray,65000,345,PT Glow Supplier,1
+PROD065,NatureGlow UV Gel 5,NatureGlow,Sun Care,UV Gel,75000,208,PT Beauty Indonesia,1
+PROD066,Skinova Sunscreen 6,Skinova,Sun Care,Sunscreen,85000,62,PT Kosmetik Nusantara,1
+PROD067,GlowCare Sun Stick 7,GlowCare,Sun Care,Sun Stick,95000,484,CV Cantik Sejahtera,1
+PROD068,BeautyLab After Sun 8,BeautyLab,Sun Care,After Sun,110000,413,PT Glow Supplier,1
+PROD069,PureSkin Sun Spray 9,PureSkin,Sun Care,Sun Spray,125000,238,PT Beauty Indonesia,1
+PROD070,Lumiere UV Gel 10,Lumiere,Sun Care,UV Gel,150000,236,PT Kosmetik Nusantara,1
+PROD071,NatureGlow Sunscreen 11,NatureGlow,Sun Care,Sunscreen,175000,286,CV Cantik Sejahtera,1
+PROD072,Skinova Sun Stick 12,Skinova,Sun Care,Sun Stick,200000,266,PT Glow Supplier,1
+PROD073,GlowCare After Sun 13,GlowCare,Sun Care,After Sun,225000,96,PT Beauty Indonesia,1
+PROD074,BeautyLab Sun Spray 14,BeautyLab,Sun Care,Sun Spray,250000,254,PT Kosmetik Nusantara,1
+PROD075,PureSkin UV Gel 15,PureSkin,Sun Care,UV Gel,300000,349,CV Cantik Sejahtera,1
+PROD076,Lumiere Beauty Sponge 1,Lumiere,Personal Care & Beauty Tools,Beauty Sponge,35000,333,PT Glow Supplier,1
+PROD077,NatureGlow Face Roller 2,NatureGlow,Personal Care & Beauty Tools,Face Roller,45000,305,PT Beauty Indonesia,1
+PROD078,Skinova Hair Brush 3,Skinova,Personal Care & Beauty Tools,Hair Brush,55000,494,PT Kosmetik Nusantara,1
+PROD079,GlowCare Eyelash Curler 4,GlowCare,Personal Care & Beauty Tools,Eyelash Curler,65000,109,CV Cantik Sejahtera,1
+PROD080,BeautyLab Makeup Organizer 5,BeautyLab,Personal Care & Beauty Tools,Makeup Organizer,75000,267,PT Glow Supplier,1
+PROD081,PureSkin Beauty Sponge 6,PureSkin,Personal Care & Beauty Tools,Beauty Sponge,85000,309,PT Beauty Indonesia,1
+PROD082,Lumiere Face Roller 7,Lumiere,Personal Care & Beauty Tools,Face Roller,95000,460,PT Kosmetik Nusantara,1
+PROD083,NatureGlow Hair Brush 8,NatureGlow,Personal Care & Beauty Tools,Hair Brush,110000,434,CV Cantik Sejahtera,1
+PROD084,Skinova Eyelash Curler 9,Skinova,Personal Care & Beauty Tools,Eyelash Curler,125000,493,PT Glow Supplier,1
+PROD085,GlowCare Makeup Organizer 10,GlowCare,Personal Care & Beauty Tools,Makeup Organizer,150000,357,PT Beauty Indonesia,1
+PROD086,BeautyLab Beauty Sponge 11,BeautyLab,Personal Care & Beauty Tools,Beauty Sponge,175000,498,PT Kosmetik Nusantara,1
+PROD087,PureSkin Face Roller 12,PureSkin,Personal Care & Beauty Tools,Face Roller,200000,301,CV Cantik Sejahtera,1
+PROD088,Lumiere Hair Brush 13,Lumiere,Personal Care & Beauty Tools,Hair Brush,225000,253,PT Glow Supplier,1
+PROD089,NatureGlow Eyelash Curler 14,NatureGlow,Personal Care & Beauty Tools,Eyelash Curler,250000,318,PT Beauty Indonesia,1
+PROD090,Skinova Makeup Organizer 15,Skinova,Personal Care & Beauty Tools,Makeup Organizer,300000,182,PT Kosmetik Nusantara,1

@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Data sumber dari pipeline Apache Airflow"
+    schema: raw
+    tables:
+      - name: transactions
+        identifier: transactions_airflow
+        description: "Data mentah transaksi e-commerce beauty"
+      - name: products
+        description: "Master produk e-commerce beauty"

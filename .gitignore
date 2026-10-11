@@ -1,0 +1,21 @@
+# Python environment and cache
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+
+# Generated DBT files
+dbt_project/target/
+dbt_project/logs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Local backup database (keep locally, do not upload)
+data/warehouse_before_airflow_alignment.duckdb
+
+# Older Power BI draft (keep locally, do not upload)
+dashboard/574147_Citra_Putri_Saragih_DBT_BI.pbix
+dbt_project/.user.yml
+/docs/dbt test.png

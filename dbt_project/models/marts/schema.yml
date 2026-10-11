@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: mart_sales_analysis
+    description: >
+      Ringkasan penjualan e-commerce beauty berdasarkan bulan,
+      kategori produk, channel penjualan, dan kota.
+    columns:
+      - name: order_month
+        description: "Bulan transaksi."
+        data_tests:
+          - not_null
+
+      - name: category
+        description: "Kategori produk."
+        data_tests:
+          - not_null
+
+      - name: sales_channel
+        description: "Channel penjualan."
+        data_tests:
+          - not_null
+
+      - name: city
+        description: "Kota transaksi."
+        data_tests:
+          - not_null
+
+      - name: transaction_count
+        description: "Jumlah transaksi pada kelompok analisis."
+        data_tests:
+          - not_null
+
+      - name: total_net_sales
+        description: "Total penjualan bersih pada kelompok analisis."
+        data_tests:
+          - not_null
